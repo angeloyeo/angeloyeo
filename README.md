@@ -27,6 +27,7 @@
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=p5.js&color=%23EB34C3&style=for-the-badge&logo=p5.js&logoColor=grey" alt="p5js"> </a>
     <br><br>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=GITHUB&color=%23181717&style=for-the-badge&logo=github&logoColor=whitesmoke" alt="GITHUB"></a>
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=VisualStudioCode&color=%230345FC&style=for-the-badge&logo=github&logoColor=whitesmoke" alt="VSCODE"></a>
 </div>
 
 ___
