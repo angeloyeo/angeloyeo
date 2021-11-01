@@ -26,6 +26,7 @@
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=MATLAB&color=%23E34F26&style=for-the-badge&logo=matlab&logoColor=whitesmoke" alt="MATLAB"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Python&color=%233474EB&style=for-the-badge&logo=python&logoColor=grey" alt="Javascript"> </a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Javascript&color=%23F7DF1E&style=for-the-badge&logo=javascript&logoColor=grey" alt="Javascript"> </a>
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=p5.js&color=%23EB34C3&style=for-the-badge&logo=p5.js&logoColor=grey" alt="p5js"> </a>
     <br><br>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=GIT&color=%23F05032&style=for-the-badge&logo=git&logoColor=whitesmoke" alt="GIT"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=GITHUB&color=%23181717&style=for-the-badge&logo=github&logoColor=whitesmoke" alt="GITHUB"></a>
