@@ -2,16 +2,14 @@
     
 <h1 align="left">Hi 👋🏽, I'm Donghoon Yeo</h1>
 
-![Profile views](https://gpvc.arturio.dev/gabrlcj)
-
 <h3 align="left">I have a passion for programming and technology! 🚀</h3>
 
 <div align="left">
     <h3>👨🏽‍💻 About me:</h3>
-        <p>• 📚 I’m currently learning: <b>Front-end development with React.js and Typescript, trying to get my first experience as a developer.</b></p>
-        <p>• ℹ️ Hobbies: <b>Games 🎮 | Music 🎧 | Exercise 🏃 | NBA 🏀</b></p>
+        <p>• 📚 I’m currently : <b>working on blood glucose meter algorithm and posting about math.</b></p>
+        <p>• ℹ️ Hobbies: <b> Music 🎧 | Exercise 🏃 </b></p>
         <p>• 💬 Ask me about: <b>Anything, honestly, I love knowledge and learning new things</b></p>
-        <p>• 📫 How to reach me: <b>gabrielbittencourt57@gmail.com</b></p>
+        <p>• 📫 How to reach me: <b>angeloyeo@gmail.com</b></p>
 </div><br>
 
 <div align="center">
@@ -28,23 +26,18 @@
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Javascript&color=%23F7DF1E&style=for-the-badge&logo=javascript&logoColor=grey" alt="Javascript"> </a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=p5.js&color=%23EB34C3&style=for-the-badge&logo=p5.js&logoColor=grey" alt="p5js"> </a>
     <br><br>
-    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=GIT&color=%23F05032&style=for-the-badge&logo=git&logoColor=whitesmoke" alt="GIT"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=GITHUB&color=%23181717&style=for-the-badge&logo=github&logoColor=whitesmoke" alt="GITHUB"></a>
-    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=FIGMA&color=%23552d84&style=for-the-badge&logo=figma&logoColor=whitesmoke" alt="FIGMA"></a>
 </div>
 
 ___
 
 <div>
   <h3>📱 Social Medias:</h3><br>
-    <a href="https://www.linkedin.com/in/gabrielbittencourtpenteado/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=whitesmoke" alt="Linkedin"></a>
-    <a href="https://codepen.io/gabrlcj" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Codepen&color=%23000000&style=for-the-badge&logo=codepen&logoColor=whitesmoke" alt="Codepen"></a>
-    <a href="https://dev.to/gabrlcj"><img src="https://img.shields.io/static/v1?label=&message=DEV&color=%230A0A0A&style=for-the-badge&logo=dev.to" alt="DEV"></a>
-    <a href="https://www.instagram.com/gabrlcj/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Instagram&color=lightpink&style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"></a>
+    <a href="https://www.linkedin.com/in/angeloyeo/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=whitesmoke" alt="Linkedin"></a>
 </div>
 
 ------
 
 Credit: [gabrlcj](https://github.com/gabrlcj)
 
-Last Edited on: 23/10/2021
+Last Edited on: Nov. 01, 2021
