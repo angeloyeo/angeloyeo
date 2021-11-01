@@ -13,8 +13,8 @@
 </div><br>
 
 <div align="center">
-    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=gabrlcj&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&locale=en&hide_border=true&bg_color=bbb8b2" alt="gabrlcj" />
-    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrlcj&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&layout=compact&hide_border=true&bg_color=bbb8b2" alt="gabrlcj" />
+    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=angeloyeo&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&locale=en&hide_border=true&bg_color=bbb8b2" alt="angeloyeo" />
+    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=angeloyeo&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&layout=compact&hide_border=true&bg_color=bbb8b2" alt="angeloyeo" />
 </div>
     
 ---
