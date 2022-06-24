@@ -6,8 +6,8 @@
 
 <div align="left">
     <h3>👨🏽‍💻 About me:</h3>
-        <p>• 📚 I’m currently : <b>working on blood glucose meter algorithm and posting about math.</b></p>
-        <p>• ℹ️ Hobbies: <b> Music 🎧 | Exercise 🏃 </b></p>
+        <p>• 📚 I’m currently : <b>working for The MathWorks as a Technical Support Engineer.</b></p>
+        <p>• ℹ️ Hobbies: <b> Music 🎧 | Exercise 🏃 | Math blog 📚 </b></p>
         <p>• 💬 Ask me about: <b>Anything, honestly, I love knowledge and learning new things</b></p>
         <p>• 📫 How to reach me: <b>angeloyeo@gmail.com</b></p>
 </div><br>
